@@ -1,6 +1,6 @@
 ![logo](https://github.com/Monirul-Islam-Mahmud/Monirul-Islam-Mahmud/blob/main/Monirul-Banner.png)
-<h1 align="center">Greetings 👋, I'm Monirul Islam</h1>
-<h3 align="center">A passionate Web Developer, Data Scientist & Researcher</h3>
+<h1 align="center">Greetings 👋 I'm Monirul Islam</h1>
+<h3 align="center">A passionate Analyst, Data Scientist & Researcher</h3>
 <br><br>
 <img align="right" width="430" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 <p align="left"> <a href="https://twitter.com/mahmud_monirul" target="blank"><img src="https://img.shields.io/twitter/follow/mahmud_monirul?logo=twitter&style=for-the-badge" alt="mahmud_monirul" /></a> </p>
@@ -9,22 +9,18 @@
 
 - 🤓 Worked as **Trainee Data Scientist** at **Systech Datasoft**
 
-- 🌱 I’m currently learning **Data Science & Deep Learning**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Monirul-Islam-Mahmud](https://github.com/Monirul-Islam-Mahmud)
-
-- 💬 Ask me about **PHP, Python and Django**
 
 - 📫 Reach me **mahmudislam2025@gmail.com**
 
-- 📄 Know about my experiences - <br> [www.being-monirul.com](https://being-monirul.netlify.app)
+- 📄 Know about my experiences - <br> [monirules.github.io](monirules.github.io)
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/mahmud_monirul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmud_monirul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/monirul-islam-mahmud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monirul-islam-mahmud/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17391506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17391506" height="30" width="40" /></a>
-<a href="https://instagram.com/__mahmud_shah__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mahmud_shah__" height="30" width="40" /></a>
+<a href="https://www.instagram.com/moni.rules__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mahmud_shah__" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCBA8XqF1ob-zVZe9btuTWzA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCBA8XqF1ob-zVZe9btuTWzA" height="30" width="40" /></a>
 </p>
 
