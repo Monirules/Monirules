@@ -13,7 +13,7 @@
 
 - 📫 Reach me **mahmudislam2025@gmail.com**
 
-- 📄 Know about my experiences - <br> [monirules.github.io](monirules.github.io)
+- 📄 Know about my experiences - <br> ([monirules.github.io](https://monirules.github.io))
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
