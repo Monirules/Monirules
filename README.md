@@ -1,4 +1,4 @@
-![logo]([https://github.com/Monirul-Islam-Mahmud/Monirul-Islam-Mahmud/blob/main/Monirul-Banner.png](https://github.com/Monirules/Monirules/blob/master/Monirul-Banner.png))
+![logo]((https://github.com/Monirules/Monirules/blob/master/Monirul-Banner.png))
 <h1 align="center">Greetings 👋 I'm Monirul Islam</h1>
 <h3 align="center">A passionate Analyst, Data Scientist & Researcher</h3>
 <br><br>
