@@ -5,7 +5,9 @@
 <img align="right" width="430" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 <p align="left"> <a href="https://twitter.com/mahmud_monirul" target="blank"><img src="https://img.shields.io/twitter/follow/mahmud_monirul?logo=twitter&style=for-the-badge" alt="mahmud_monirul" /></a> </p>
 
-- 🔭 I’m currently working on **Design Inclusion & Access Lab (DIAL)** as **Graduate Research Assistant**
+- 🔭 MS in Analytics @Georgia Tech | MS in Computer Science @Fordham University.
+
+- 💻 Worked on **Design Inclusion & Access Lab (DIAL)** as **Graduate Research Assistant**
 
 - 🤓 Worked as **Trainee Data Scientist** at **Systech Datasoft**
 
