@@ -1,17 +1,17 @@
 ![logo](https://github.com/Monirules/Monirules/blob/master/Monirul-Banner.png)
-<h1 align="center">Greetings 👋 I'm Monirul Islam</h1>
+<h1 align="center">Greetings 👋 I'm Monirul</h1>
 <h3 align="center">A passionate Analyst, Data Scientist & Researcher</h3>
 <br><br>
 <img align="right" width="430" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 <p align="left"> <a href="https://twitter.com/mahmud_monirul" target="blank"><img src="https://img.shields.io/twitter/follow/mahmud_monirul?logo=twitter&style=for-the-badge" alt="mahmud_monirul" /></a> </p>
 
-- 🔭 MS in Analytics @Georgia Tech | MS in Computer Science @Fordham University.
+- 🔭 MS in Analytics at **Georgia Tech** | MS in Computer Science at **Fordham University**.
 
 - 💻 Worked on **Design Inclusion & Access Lab (DIAL)** as **Graduate Research Assistant**
 
 - 🤓 Worked as **Trainee Data Scientist** at **Systech Datasoft**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Monirul-Islam-Mahmud](https://github.com/Monirul-Islam-Mahmud)
+- 👨‍💻 All of my projects are available at [https://github.com/Monirules](https://github.com/Monirules)
 
 - 📫 Reach me **mahmudislam2025@gmail.com**
 
