@@ -1,13 +1,15 @@
-![logo](https://github.com/Monirules/Monirules/blob/master/Monirul-Banner.png)
-<h1 align="center">Greetings 👋 I'm Monirul</h1>
-<h3 align="center">A passionate Analyst, Data Scientist & Researcher</h3>
+![100](https://github.com/user-attachments/assets/17e98568-0f20-4d90-8d12-57b6c23b7033)
+
+<h1 align="center">Monirul I. Mahmud</h1>
+<h3 align="center">A Passionate Researcher & Data Scientist</h3>
 <br><br>
 <img align="right" width="430" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 <p align="left"> <a href="https://twitter.com/mahmud_monirul" target="blank"><img src="https://img.shields.io/twitter/follow/mahmud_monirul?logo=twitter&style=for-the-badge" alt="mahmud_monirul" /></a> </p>
 
-- 🔭 MS in Analytics at **Georgia Tech** | MS in Computer Science at **Fordham University**.
+- 🔭 MS in Analytics at **Georgia Tech**.
+- 🏫 MS in Computer Science at **Fordham University**.
 
-- 💻 Worked on **Design Inclusion & Access Lab (DIAL)** as **Graduate Research Assistant**
+- 💻 Worked at **Design Inclusion & Access Lab (DIAL)** as **Research Assistant**
 
 - 🤓 Worked as **Trainee Data Scientist** at **Systech Datasoft**
 
@@ -15,7 +17,7 @@
 
 - 📫 Reach me **mahmudislam2025@gmail.com**
 
-- 📄 Know about my experiences - <br> ([monirules.github.io](https://monirules.github.io))
+- 📄 Know about my experiences - [monirules.github.io](https://monirules.github.io)
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
