@@ -1,4 +1,5 @@
-![100](https://github.com/user-attachments/assets/17e98568-0f20-4d90-8d12-57b6c23b7033)
+
+<img width="1972" height="729" alt="COVER3" src="https://github.com/user-attachments/assets/2c7e829e-a1d6-4f3d-bdcd-0fdc07c13a30" />
 
 <h1 align="center">Monirul I. Mahmud</h1>
 <h3 align="center">A Passionate Researcher & Data Scientist</h3>
