@@ -1,8 +1,9 @@
 
-<img width="1972" height="729" alt="COVER3" src="https://github.com/user-attachments/assets/2c7e829e-a1d6-4f3d-bdcd-0fdc07c13a30" />
+![n4](https://github.com/user-attachments/assets/4c6a78cd-efbb-43c6-94e1-acb27a5bb376)
+
 
 <h1 align="center">Monirul I. Mahmud</h1>
-<h3 align="center">A Passionate Researcher & Data Scientist</h3>
+<h3 align="center"> Researcher & Data Scientist</h3>
 <br><br>
 <img align="right" width="430" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 <p align="left"> <a href="https://twitter.com/mahmud_monirul" target="blank"><img src="https://img.shields.io/twitter/follow/mahmud_monirul?logo=twitter&style=for-the-badge" alt="mahmud_monirul" /></a> </p>
