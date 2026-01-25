@@ -8,7 +8,6 @@
 <img align="right" width="430" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 <p align="left"> <a href="https://twitter.com/mahmud_monirul" target="blank"><img src="https://img.shields.io/twitter/follow/mahmud_monirul?logo=twitter&style=for-the-badge" alt="mahmud_monirul" /></a> </p>
 
-- 🔭 MS in Analytics at **Georgia Tech**.
 - 🏫 MS in Computer Science at **Fordham University**.
 
 - 💻 Worked at **Design Inclusion & Access Lab (DIAL)** as **Research Assistant**
