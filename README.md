@@ -8,17 +8,17 @@
 <img align="right" width="430" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 <p align="left"> <a href="https://twitter.com/mahmud_monirul" target="blank"><img src="https://img.shields.io/twitter/follow/mahmud_monirul?logo=twitter&style=for-the-badge" alt="mahmud_monirul" /></a> </p>
 
-- 🏫 MS in Computer Science at **Fordham University**.
+- 📌 MS in Computer Science at **Fordham University**.
 
 - 💻 Worked at **Design Inclusion & Access Lab (DIAL)** as **Research Assistant**
 
-- 🤓 Worked as **Trainee Data Scientist** at **Systech Datasoft**
+- 💻 Worked as **Trainee Data Scientist** at **Systech Datasoft**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Monirules](https://github.com/Monirules)
 
 - 📫 Reach me **mahmudislam2025@gmail.com**
 
-- 📄 Know about my experiences - [monirules.github.io](https://monirules.github.io)
+- 📄 Visit Website - [monirules.github.io](https://monirules.github.io)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -106,6 +106,5 @@
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monirules&show_icons=true&locale=en" alt="monirul-islam-mahmud" />
 
 
