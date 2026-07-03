@@ -1,20 +1,20 @@
 
-![n4](https://github.com/user-attachments/assets/4c6a78cd-efbb-43c6-94e1-acb27a5bb376)
+
+<img width="1983" height="793" alt="ChatGPT Image Jul 1, 2026, 08_41_30 AM" src="https://github.com/user-attachments/assets/9a9a5827-c6dd-4437-84fe-30d39f490dd8" />
 
 
-<h1 align="center">Monirul I. Mahmud</h1>
-<h3 align="center"> Researcher & Data Scientist</h3>
+<h1 align="center">Monirul Islam Mahmud</h1>
+<h3 align="center"> Researcher | Eficient LLM, VLM and AI for Security</h3>
 <br><br>
 <img align="right" width="430" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 <p align="left"> <a href="https://twitter.com/mahmud_monirul" target="blank"><img src="https://img.shields.io/twitter/follow/mahmud_monirul?logo=twitter&style=for-the-badge" alt="mahmud_monirul" /></a> </p>
 
-- 📌 MS in Computer Science at **Fordham University**.
+- 📌 Ph.D. in Computer Science at **University of Cincinnati, Ohio**.
+- 📌 M.Sc. in Computer Science at **Fordham University, New York**.
 
 - 💻 Worked at **Design Inclusion & Access Lab (DIAL)** as **Research Assistant**
 
 - 💻 Worked as **Trainee Data Scientist** at **Systech Datasoft**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Monirules](https://github.com/Monirules)
 
 - 📫 Reach me **mahmudislam2025@gmail.com**
 
